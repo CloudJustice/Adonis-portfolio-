@@ -81,9 +81,10 @@ p {
   flex-direction: column;
   align-items: flex-start;
 }
-.hero-content span,logo{
-  filter: dropshadow(2px 2px 20px cyan);
+.hero-content span, logo{
+  filter: drop-shadow(2px 2px 5px  #53FF96);
 }
+
 
 .hero-content a {
   background: #0094f7;
